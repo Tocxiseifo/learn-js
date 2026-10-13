@@ -1,0 +1,11 @@
+{
+    "string": "seif",
+    "number": 100,
+    "object": {
+        "eg" : "giza",
+        "ksa": "jadaa"
+    },
+    "array":["HTML","CSS", "JS"],
+    "BOOLEEN": true ,
+    "null": null
+}
